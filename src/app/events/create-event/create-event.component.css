@@ -1,0 +1,33 @@
+em{
+    float: right;
+    color:#e05c65;
+    padding-left: 10px;
+}
+.error input{
+    background-color: #e3c3c5;
+}
+.error ::-webkit-input-placeholder{
+    color:#999;
+}
+.error ::-moz-placeholder{
+    color:#999;
+}
+.error :-moz-placeholder{
+    color:#999;
+}
+.error :-ms-input-placeholder{
+    color:#999;
+}
+input {
+    margin-bottom: 1em;
+}
+ 
+.cancelBtn{
+    color: white;
+    background-color: #4E5D6C;
+    margin-left: 1em;
+}
+.saveBtn{
+    color: #fff;
+    background-color: #f97924;
+}

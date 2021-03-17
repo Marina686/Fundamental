@@ -1,1 +1,45 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font: 1rem/1.5 var(--bs-font-sans-serif);
+  font-weight: 400;
+}
+body.container {
+  background: #2B3E50;
+  color: white;
+}
+h1, h2, h3,h4, h5{
+  font-weight: 400  !important;
+}
+.hoverwell:hover {
+    background-color: #485563;
+    cursor: pointer;
+  }
+  
+  .container {
+    padding-top: 10px;
+  }
+  
+  .pointable {
+    cursor: pointer;
+  }
+  
+  button {
+    color: #555;
+  }
+  
+  [hidden] {
+    display: none !important;
+  }
+  
+  .toast-success {
+    background-color: #51a351;
+  }
+  .toast-error {
+    background-color: #bd362f;
+  }
+  .toast-info {
+    background-color: #2f96b4;
+  }
+  .toast-warning {
+    background-color: #f89406;
+  }

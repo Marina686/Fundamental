@@ -1,0 +1,8 @@
+.eventimage{
+    height: 100px;
+}
+ 
+a{cursor:pointer; color: #f97924 !important;}
+.btn{color:white !important;}
+.btn-filter{background: #4E5D6C; color:white !important; border-radius: 0; margin-left: .25em;}
+.btn-flter.active{color:white}

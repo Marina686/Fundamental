@@ -1,0 +1,9 @@
+<div class="row">
+    <h1>Upcoming Angular Events</h1>
+    <hr> 
+    <div class="col-md-5" *ngFor="let event of events">
+        <event-list  [event]="event" #newItem></event-list>
+         
+    </div> 
+</div>
+

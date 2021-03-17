@@ -1,0 +1,23 @@
+.green{
+    color:#003300 !important;
+}
+.red{
+    color:red;
+}
+ .bold{
+     font-weight: 600;
+ }
+.card {
+    margin-top: 10px;
+    padding-top: 5px;
+    min-height: 285px;
+    background: #4E5D6C;
+    color: white;
+    padding: 1em;
+}
+    .label { font-size: 14px;
+        margin-bottom: 10px;
+        display: inline-block;
+        background: #F0AD4E;
+        padding: 0 .5em; }
+         
